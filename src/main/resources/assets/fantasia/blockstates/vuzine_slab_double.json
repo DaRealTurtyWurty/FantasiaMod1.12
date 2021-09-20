@@ -1,0 +1,6 @@
+{
+    "variants":
+    {
+        "variant=default": { "model": "fantasia:vuzine_slab_double" }
+    }
+}

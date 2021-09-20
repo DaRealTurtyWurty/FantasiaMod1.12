@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "fantasia:blocks/white_cherry_leaves"
+    }
+}

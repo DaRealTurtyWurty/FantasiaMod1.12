@@ -1,0 +1,9 @@
+{
+    "forge_marker": 1,
+    "variants": {
+        "axis=y":  { "model": "fantasia:vlum_log" },
+        "axis=z":   { "model": "fantasia:vlum_log", "x": 90 },
+        "axis=x":   { "model": "fantasia:vlum_log", "x": 90, "y": 90 },
+        "axis=none": { "model": "fantasia:vlum_bark" }
+    }
+}

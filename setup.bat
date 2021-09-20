@@ -1,0 +1,1 @@
+gradlew.bat&&gradlew setupDecompWorkspace eclipse&&echo gradlew build > buildMod.bat

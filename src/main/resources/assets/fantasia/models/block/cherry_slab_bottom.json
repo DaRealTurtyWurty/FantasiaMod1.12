@@ -1,0 +1,9 @@
+{
+    "parent": "block/half_slab",
+    "textures":
+    {
+        "bottom": "fantasia:blocks/cherry_planks",
+        "top": "fantasia:blocks/cherry_planks",
+        "side": "fantasia:blocks/cherry_planks"
+    }
+}

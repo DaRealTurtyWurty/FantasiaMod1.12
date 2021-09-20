@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "fantasia:blocks/mystic_mushroom_block_inside",
+        "down": "fantasia:blocks/mystic_mushroom_block_inside",
+        "up": "fantasia:blocks/mushroom_block_skin_mystic",
+        "north": "fantasia:blocks/mystic_mushroom_block_inside",
+        "east": "fantasia:blocks/mystic_mushroom_block_inside",
+        "south": "fantasia:blocks/mystic_mushroom_block_inside",
+        "west": "fantasia:blocks/mystic_mushroom_block_inside"
+    }
+}

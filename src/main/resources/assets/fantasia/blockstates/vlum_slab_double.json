@@ -1,0 +1,6 @@
+{
+    "variants":
+    {
+        "variant=default": { "model": "fantasia:vlum_slab_double" }
+    }
+}

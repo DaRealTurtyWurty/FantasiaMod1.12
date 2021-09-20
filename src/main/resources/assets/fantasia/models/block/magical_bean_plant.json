@@ -1,0 +1,6 @@
+{
+    "parent": "block/cross",
+    "textures": {
+        "cross": "fantasia:blocks/magical_bean_plant"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "powered=false": { "model": "fantasia:vlum_pressure_plate_up" },
+        "powered=true": { "model": "fantasia:vlum_pressure_plate_down" }
+    }
+}

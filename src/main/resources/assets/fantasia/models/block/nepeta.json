@@ -1,0 +1,7 @@
+{
+    "parent": "block/cross",
+    "textures": {
+        "particle": "fantasia:blocks/nepeta",
+        "cross": "fantasia:blocks/nepeta"
+    }
+}

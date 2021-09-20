@@ -1,0 +1,9 @@
+{
+    "forge_marker": 1,
+    "variants": {
+        "axis=y":  { "model": "fantasia:cherry_log" },
+        "axis=z":   { "model": "fantasia:cherry_log", "x": 90 },
+        "axis=x":   { "model": "fantasia:cherry_log", "x": 90, "y": 90 },
+        "axis=none": { "model": "fantasia:cherry_bark" }
+    }
+}

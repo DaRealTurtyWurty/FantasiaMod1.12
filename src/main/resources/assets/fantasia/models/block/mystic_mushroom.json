@@ -1,0 +1,6 @@
+{
+    "parent": "block/cross",
+    "textures": {
+        "cross": "fantasia:blocks/mushroom_mystic"
+    }
+}

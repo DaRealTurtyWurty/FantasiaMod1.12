@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "side": "fantasia:blocks/mystic_mushroom_block_skin_stem",
+        "end": "fantasia:blocks/mystic_mushroom_block_inside"
+    }
+}

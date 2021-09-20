@@ -1,0 +1,8 @@
+{
+    "parent": "block/inner_stairs",
+    "textures": {
+        "bottom": "fantasia:blocks/vuzine_planks",
+        "top": "fantasia:blocks/vuzine_planks",
+        "side": "fantasia:blocks/vuzine_planks"
+    }
+}

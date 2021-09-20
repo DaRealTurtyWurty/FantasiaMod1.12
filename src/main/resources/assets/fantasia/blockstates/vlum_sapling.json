@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "stage=0,type=vlum": { "model": "fantasia:vlum_sapling" },
+        "stage=1,type=vlum": { "model": "fantasia:vlum_sapling" }
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "forge_marker": 1,
+    "variants": {
+        "axis=y":  { "model": "fantasia:vuzine_log" },
+        "axis=z":   { "model": "fantasia:vuzine_log", "x": 90 },
+        "axis=x":   { "model": "fantasia:vuzine_log", "x": 90, "y": 90 },
+        "axis=none": { "model": "fantasia:vuzine_bark" }
+    }
+}

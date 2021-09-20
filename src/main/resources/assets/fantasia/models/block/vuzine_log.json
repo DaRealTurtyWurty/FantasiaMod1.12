@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "fantasia:blocks/vuzine_log",
+        "side": "fantasia:blocks/vuzine_bark"
+    }
+}

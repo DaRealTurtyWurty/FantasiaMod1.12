@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "fantasia:test_block" }
+    }
+}

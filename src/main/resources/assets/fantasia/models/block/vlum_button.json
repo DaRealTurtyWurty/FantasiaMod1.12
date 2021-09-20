@@ -1,0 +1,6 @@
+{
+    "parent": "block/button",
+    "textures": {
+        "texture": "fantasia:blocks/vlum_planks"
+    }
+}

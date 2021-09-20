@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "powered=false": { "model": "fantasia:cherry_pressure_plate_up" },
+        "powered=true": { "model": "fantasia:cherry_pressure_plate_down" }
+    }
+}

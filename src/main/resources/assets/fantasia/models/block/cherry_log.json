@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "fantasia:blocks/cherry_log",
+        "side": "fantasia:blocks/cherry_bark"
+    }
+}

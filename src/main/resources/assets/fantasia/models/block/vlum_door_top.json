@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:block/door_top_rh",
+    "textures": {
+        "bottom": "fantasia:blocks/door_vlum_lower",
+        "top": "fantasia:blocks/door_vlum_upper"
+    }
+}

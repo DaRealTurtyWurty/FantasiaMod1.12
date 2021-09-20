@@ -1,0 +1,5 @@
+{
+"variants": {
+    "variant=default": { "model": "fantasia:test_slab" }
+    }
+}

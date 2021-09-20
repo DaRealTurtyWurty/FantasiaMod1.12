@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "fantasia:vuzine_ladder" },
+        "facing=east":  { "model": "fantasia:vuzine_ladder", "y": 90 },
+        "facing=south": { "model": "fantasia:vuzine_ladder", "y": 180 },
+        "facing=west":  { "model": "fantasia:vuzine_ladder", "y": 270 }
+    }
+}

@@ -1,0 +1,99 @@
+//Cherry Blocks
+tile.cherry_log.name=Cherry Log
+tile.cherry_bark.name=Cherry Bark
+tile.cherry_leaves.name=Pink Cherry Leaves
+tile.white_cherry_leaves=White Cherry Leaves
+tile.cherry_planks.name=Cherry Planks
+tile.cherry_bookshelf.name=Cherry Bookshelf
+tile.cherry_button.name=Cherry Button
+tile.cherry_stairs.name=Cherry Stairs
+tile.cherry_pressure_plate.name=Cherry Pressure Plate
+tile.cherry_fence.name=Cherry Fence
+tile.cherry_ladder.name=Cherry Ladder
+tile.cherry_fence_gate.name=Cherry Fence Gate
+tile.cherry_sapling.name=Cherry Sapling
+tile.cherry_door.name=Cherry Door
+tile.cherry_slab_half.name=Cherry Slab
+tile.cherry_slab_double.name=Cherry Double Slab
+tile.cherry_chest.name=Cherry Chest
+
+//Vlum Blocks
+tile.vlum_log.name=Vlum Log
+tile.vlum_bark.name=Vlum Bark
+tile.vlum_leaves.name=Vlum Leaves
+tile.vlum_planks.name=Vlum Planks
+tile.vlum_bookshelf.name=Vlum Bookshelf
+tile.vlum_button.name=Vlum Button
+tile.vlum_stairs.name=Vlum Stairs
+tile.vlum_pressure_plate.name=Vlum Pressure Plate
+tile.vlum_fence.name=Vlum Fence
+tile.vlum_ladder.name=Vlum Ladder
+tile.vlum_fence_gate.name=Vlum Fence Gate
+tile.vlum_sapling.name=Vlum Sapling
+tile.vlum_door.name=Vlum Door
+tile.vlum_slab_half.name=Vlum Slab
+tile.vlum_slab_double.name=Vlum Double Slab
+tile.vlum_chest.name=Vlum Chest
+
+//Vuzine Blocks
+tile.vuzine_log.name=Vuzine Log
+tile.vuzine_bark.name=Vuzine Bark
+tile.vuzine_leaves.name=Vuzine Leaves
+tile.vuzine_planks.name=Vuzine Planks
+tile.vuzine_bookshelf.name=Vuzine Bookshelf
+tile.vuzine_button.name=Vuzine Button
+tile.vuzine_stairs.name=Vuzine Stairs
+tile.vuzine_pressure_plate.name=Vuzine Pressure Plate
+tile.vuzine_fence.name=Vuzine Fence
+tile.vuzine_ladder.name=Vuzine Ladder
+tile.vuzine_fence_gate.name=Vuzine Fence Gate
+tile.vuzine_sapling.name=Vuzine Sapling
+tile.vuzine_door.name=Vuzine Door
+tile.vuzine_slab_half.name=Vuzine Slab
+tile.vuzine_slab_double.name=Vuzine Double Slab
+tile.vuzine_chest.name=Vuzine Chest
+
+//Other Blocks
+tile.tree_structure.name=Tree Structure Block
+tile.mushroom_mystic.name=Mystic Mushroom Block
+tile.mystic_mushroom.name=Mystic Mushroom
+tile.nepeta.name=Nepeta
+tile.beanstalk_block.name=Beanstalk Block
+tile.magical_bean_plant.name=Magical Bean Plant
+tile.golden_egg.name=Golden Egg
+
+tile.cloud_block.name=Cloud Block
+tile.cloud_purple.name=Purple Cloud Block
+tile.cloud_pink.name=Pink Cloud Block
+tile.cloud_red.name=Red Cloud Block
+tile.cloud_lime.name=Lime Cloud Block
+tile.cloud_yellow.name=Yellow Cloud Block
+tile.cloud_cyan.name=Cyan Cloud Block
+tile.blue_moss.name=Blue Moss
+tile.hopweed.name=Hopweed
+
+//Items
+item.cherry_stick.name=Cherry Stick
+item.cherry_boat.name=Cherry Boat
+item.vlum_stick.name=Vlum Stick
+item.vlum_boat.name=Vlum Boat
+item.vuzine_stick.name=Vuzine Stick
+item.vuzine_boat.name=Vuzine Boat
+item.morintroll_apple.name=Morintroll Apple
+item.fantasia_guide.name=Fantasia Guide
+item.magical_bean.name=Magical Bean
+
+//Entities
+entity.cherry_boat.name=Cherry Boat
+
+entity.vlum_boat.name=Vlum Boat
+
+//Containers
+container.cherry_chest=Cherry Chest
+container.cherry_chest_double=Large Cherry Chest
+
+container.vlum_chest=Vlum Chest
+container.vlum_chest_double=Large Vlum Chest
+
+//Tabs
+itemGroup.maintab=Fantasia Tab

@@ -1,0 +1,9 @@
+{
+    "parent": "block/half_slab",
+    "textures":
+    {
+        "bottom": "fantasia:blocks/vuzine_log",
+        "top": "fantasia:blocks/vuzine_log",
+        "side": "fantasia:blocks/vuzine_log"
+    }
+}

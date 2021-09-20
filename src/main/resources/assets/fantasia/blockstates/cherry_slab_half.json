@@ -1,0 +1,7 @@
+{
+    "variants":
+    {
+        "half=bottom,variant=default": { "model": "fantasia:cherry_slab_bottom" },
+        "half=top,variant=default": { "model": "fantasia:cherry_slab_top" }
+    }
+}

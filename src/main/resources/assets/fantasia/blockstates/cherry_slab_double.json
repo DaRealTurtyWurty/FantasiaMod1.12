@@ -1,0 +1,6 @@
+{
+    "variants":
+    {
+        "variant=default": { "model": "fantasia:cherry_slab_double" }
+    }
+}

@@ -1,0 +1,6 @@
+{
+"variants": {
+    "half=bottom,variant=default": { "model": "fantasia:test_slab_bottom" },
+        "half=top,variant=default": { "model": "fantasia:test_slab_top" }
+    }
+}

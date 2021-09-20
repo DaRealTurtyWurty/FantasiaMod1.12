@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "SFS",
+        "SES",
+        "SFS"
+    ],
+    
+    "key":
+    {
+        "S":
+        {
+            "item": "minecraft:shulker_shell"
+        },
+        "F":
+        {
+        	"item": "minecraft:elytra"
+        },
+        "E":
+        {
+        	"item": "fantasia:golden_egg"
+        }
+    },
+    
+    "result":
+    {
+        "item": "fantasia:tree_structure",
+        "count": 1
+    }
+}
